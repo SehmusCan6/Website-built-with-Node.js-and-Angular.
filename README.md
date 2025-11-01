@@ -1,6 +1,6 @@
 # 🏗️Website – A Corporate Web Application Built with Node.js & Angular
 
-**Website** is a corporate web application showcasing **AF-AR’s services, projects, and solutions** with a modern and responsive design.  
+**Website** is a corporate web application showcasing ** services, projects, and solutions** with a modern and responsive design.  
 The platform was developed using **Angular** (frontend) and **Node.js** (backend) to ensure scalability, maintainability, and performance.  
 
 ---
@@ -23,7 +23,7 @@ The platform was developed using **Angular** (frontend) and **Node.js** (backend
 
 ## 📂 Project Structure
 ```bash
-AF-AR-Website/
+-Website/
 │── src/                # Application source code
 │── public/             # Static assets
 │── angular.json        # Angular project configuration
